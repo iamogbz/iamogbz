@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bienvenue 👋
 
-<!--
-**iamogbz/iamogbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![send a coffee][buymeacoffee-badge]][buymeacoffee-link]
+[![be a patron][patreon-badge]][patreon-link]
 
-Here are some ideas to get you started:
+<!-- LINKS -->
+[buymeacoffee-link]: https://www.buymeacoffee.com/abdgijmoruz
+[buymeacoffee-badge]: https://img.shields.io/badge/send-a_coffee-FFDD00?logo=buymeacoffee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[githubsponsors-link]: https://github.com/sponsors/iamogbz
+[githubsponsors-badge]: https://img.shields.io/badge/be-a_sponsor-EA4AAA?logo=githubsponsors
+
+[patreon-link]: patreon.com/juju_board
+[patreon-badge]: https://img.shields.io/badge/be-a_patron-FF424D?logo=patreon
+
+[paypal-link]: https://www.paypal.com/donate/?hosted_button_id=YU8KMXAXYKFS4
+[paypal-badge]: https://img.shields.io/badge/send-a_donation-009CDE?logo=paypal
