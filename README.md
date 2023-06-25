@@ -1,4 +1,4 @@
-### Bienvenue 👋
+### Bienvenue 👋🏾
 
 [![send a coffee][buymeacoffee-badge]][buymeacoffee-link]
 [![be a patron][patreon-badge]][patreon-link]
