@@ -10,7 +10,7 @@
 [githubsponsors-link]: https://github.com/sponsors/iamogbz
 [githubsponsors-badge]: https://img.shields.io/badge/be-a_sponsor-EA4AAA?logo=githubsponsors
 
-[patreon-link]: patreon.com/juju_board
+[patreon-link]: https://patreon.com/juju_board
 [patreon-badge]: https://img.shields.io/badge/be-a_patron-FF424D?logo=patreon
 
 [paypal-link]: https://www.paypal.com/donate/?hosted_button_id=YU8KMXAXYKFS4
