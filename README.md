@@ -4,7 +4,7 @@
 [![be a patron][patreon-badge]][patreon-link]
 
 <!-- LINKS -->
-[buymeacoffee-link]: https://www.buymeacoffee.com/abdgijmoruz
+[buymeacoffee-link]: https://www.buymeacoffee.com/code.addiction
 [buymeacoffee-badge]: https://img.shields.io/badge/send-a_coffee-FFDD00?logo=buymeacoffee
 
 [githubsponsors-link]: https://github.com/sponsors/iamogbz
