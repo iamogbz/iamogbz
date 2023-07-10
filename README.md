@@ -1,5 +1,7 @@
 ### Bienvenue 👋🏾
 
+<!-- ![pinned-star-chart][pinned-star-history] -->
+
 [![send a coffee][buymeacoffee-badge]][buymeacoffee-link]
 [![be a patron][patreon-badge]][patreon-link]
 
@@ -15,3 +17,5 @@
 
 [paypal-link]: https://www.paypal.com/donate/?hosted_button_id=YU8KMXAXYKFS4
 [paypal-badge]: https://img.shields.io/badge/send-a_donation-009CDE?logo=paypal
+
+[pinned-star-history]: https://star-history.com/embed?secret=#iamogbz/react-mirror&iamogbz/nvshim&iamogbz/chrome-alt-tabs&iamogbz/oh-my-scripts&iamogbz/jest-mock-props&iamogbz/react-ducks&Date
