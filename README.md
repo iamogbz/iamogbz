@@ -2,12 +2,18 @@
 
 <!-- ![pinned-star-chart][pinned-star-history] -->
 
-[![send a coffee][buymeacoffee-badge]][buymeacoffee-link]
+<!--
+[![buy a coffee][buymeacoffee-badge]][buymeacoffee-link]
 [![be a patron][patreon-badge]][patreon-link]
+[![buy a kofi][kofi-badge]][kofi-link]
+-->
 
 <!-- LINKS -->
-[buymeacoffee-link]: https://www.buymeacoffee.com/code.addiction
-[buymeacoffee-badge]: https://img.shields.io/badge/send-a_coffee-FFDD00?logo=buymeacoffee
+[buymeacoffee-link]: https://www.buymeacoffee.com/juju_board
+[buymeacoffee-badge]: https://img.shields.io/badge/buy-a_coffee-FFDD00?logo=buymeacoffee
+
+[kofi-link]: https://ko-fi.com/juju_board
+[kofi-badge]: https://img.shields.io/badge/buy-a_coffee-FF5E5B?logo=kofi
 
 [githubsponsors-link]: https://github.com/sponsors/iamogbz
 [githubsponsors-badge]: https://img.shields.io/badge/be-a_sponsor-EA4AAA?logo=githubsponsors
